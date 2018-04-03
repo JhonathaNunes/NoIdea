@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Gerencia de Usuários</string>
+    <string name="title_activity_cadastro">Cadastrar Usuário</string>
+    <string name="title_activity_principal">Tela Principal</string>
+</resources>
